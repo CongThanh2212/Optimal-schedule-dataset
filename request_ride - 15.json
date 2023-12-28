@@ -1,0 +1,167 @@
+[
+  {
+  "pickUpTime" : 7.05,
+  "capacity" : 1,
+  "latOrigin" : 21.048074914685998,
+  "lngOrigin" : 105.78115185606936,
+  "latDestination" : 21.039250052749512,
+  "lngDestination" : 105.78107659695023,
+  "addressStart" : "47 Phạm Văn Đồng, Cổ Nhuế, Từ Liêm, Hà Nội, Vietnam",
+  "addressEnd" : "Phạm Văn Đồng, Dịch Vọng Hậu, Cầu Giấy, Hà Nội, Vietnam",
+  "length": 1.6
+  },
+  {
+  "pickUpTime" : 7,
+  "capacity" : 1,
+  "latOrigin" : 21.046699748682318,
+  "lngOrigin" : 105.7850071200194,
+  "latDestination" : 21.036866482690574,
+  "lngDestination" : 105.78205893233932,
+  "addressStart" : "235 Hoàng Quốc Việt, Cổ Nhuế, Bắc Từ Liêm, Hà Nội, Vietnam",
+  "addressEnd" : "144 Xuân Thủy, Dịch Vọng Hậu, Cầu Giấy, Hà Nội, Vietnam",
+  "length": 2.3
+  },
+  {
+  "pickUpTime" : 7.02,
+  "capacity" : 1,
+  "latOrigin" : 21.046699748682318,
+  "lngOrigin" : 105.7850071200194,
+  "latDestination" : 21.036866482690574,
+  "lngDestination" : 105.78205893233932,
+  "addressStart" : "235 Hoàng Quốc Việt, Cổ Nhuế, Bắc Từ Liêm, Hà Nội, Vietnam",
+  "addressEnd" : "144 Xuân Thủy, Dịch Vọng Hậu, Cầu Giấy, Hà Nội, Vietnam",
+  "length": 2.3
+  },
+  {
+  "pickUpTime" : 7.3,
+  "capacity" : 2,
+  "latOrigin" : 21.03332741868163,
+  "lngOrigin" : 105.79780227572328,
+  "latDestination" : 21.023577228908298,
+  "lngDestination" : 105.80533293186562,
+  "addressStart" : "201 Đ. Cầu Giấy, Ngọc Khánh, Cầu Giấy, Hà Nội 122462, Vietnam",
+  "addressEnd" : "91 P. Chùa Láng, Láng Thượng, Đống Đa, Hà Nội, Vietnam",
+  "length": 1.7
+  },
+  {
+  "pickUpTime" : 7,
+  "capacity" : 2,
+  "latOrigin" : 20.99903467695598,
+  "lngOrigin" : 105.79810485877522,
+  "latDestination" : 21.028238792037943,
+  "lngDestination" : 105.77869296113265,
+  "addressStart" : "164 Khuất Duy Tiến, Nhân Chính, Thanh Xuân, Hà Nội, Vietnam",
+  "addressEnd" : "2QHH+4G2, Phạm Hùng, Mỹ Đình, Từ Liêm, Hà Nội, Vietnam",
+  "length": 4.2
+  },
+  {
+  "pickUpTime" : 7.3,
+  "capacity" : 1,
+  "latOrigin" : 21.01883580552601,
+  "lngOrigin" : 105.82886656279535,
+  "latDestination" : 21.008570463672772,
+  "lngDestination" : 105.84267946497118,
+  "addressStart" : "9 P. Ô Chợ Dừa, Chợ Dừa, Đống Đa, Hà Nội, Vietnam",
+  "addressEnd" : "1 Đại Cồ Việt, Bách Khoa, Hai Bà Trưng, Hà Nội, Vietnam",
+  "length": 2.7
+  },
+  {
+  "pickUpTime" : 7.27,
+  "capacity" : 1,
+  "latOrigin" : 21.029923000578,
+  "lngOrigin" : 105.81138902677259,
+  "latDestination" : 21.031054890518806,
+  "lngDestination" : 105.82693740756557,
+  "addressStart" : "Handi Resco Building, 521 P. Kim Mã, Ngọc Khánh, Ba Đình, Hà Nội, Vietnam",
+  "addressEnd" : "25 P. Giang Văn Minh, Kim Mã, Ba Đình, Hà Nội, Vietnam",
+  "length": 2
+  },
+  {
+  "pickUpTime" : 7.19,
+  "capacity" : 1,
+  "latOrigin" : 21.04078930637229,
+  "lngOrigin" : 105.81597139879806,
+  "latDestination" : 21.021583465022847,
+  "lngDestination" : 105.80907585707345,
+  "addressStart" : "Đ. Văn Cao, Liễu Giai, Ba Đình, Hà Nội, Vietnam",
+  "addressEnd" : "87 Đ. Nguyễn Chí Thanh, Láng Thượng, Đống Đa, Hà Nội, Vietnam",
+  "length": 2.3
+  },
+  {
+  "pickUpTime" : 7.22,
+  "capacity" : 3,
+  "latOrigin" : 21.012534172341596,
+  "lngOrigin" : 105.80194346084954,
+  "latDestination" : 21.036552113470098,
+  "lngDestination" : 105.78887983394272,
+  "addressStart" : "2R62+XQ3, Đ. Trần Duy Hưng, Trung Hoà, Cầu Giấy, Hà Nội 100000, Vietnam",
+  "addressEnd" : "36 Xuân Thủy, Dịch Vọng Hậu, Cầu Giấy, Hà Nội, Vietnam",
+  "length": 4.5
+  },
+  {
+  "pickUpTime" : 7.11,
+  "capacity" : 2,
+  "latOrigin" : 20.998206079393842,
+  "lngOrigin" : 105.81329203048001,
+  "latDestination" : 21.00778305950893,
+  "lngDestination" : 105.82371909896521,
+  "addressStart" : "227 Đ. Nguyễn Trãi, Thượng Đình, Thanh Xuân, Hà Nội, Vietnam",
+  "addressEnd" : "Nhà A1-A2-A4, Trung Liệt, Đống Đa, Hà Nội, Vietnam",
+  "length": 2.4
+  },
+  {
+  "pickUpTime" : 7.4,
+  "capacity" : 1,
+  "latOrigin" : 21.028835901646428,
+  "lngOrigin" : 105.80368255266055,
+  "latDestination" : 21.039079325800067,
+  "lngDestination" : 105.8071758010875,
+  "addressStart" : "3 Đ. Cầu Giấy, Láng Thượng, Đống Đa, Hà Nội, Vietnam",
+  "addressEnd" : "268 Đ. Bưởi, Vĩnh Phú, Ba Đình, Hà Nội 100000, Vietnam",
+  "length": 1.7
+  },
+  {
+  "pickUpTime" : 6.8,
+  "capacity" : 1,
+  "latOrigin" : 21.021398791590123,
+  "lngOrigin" : 105.80096514892128,
+  "latDestination" : 21.018009858860477,
+  "lngDestination" : 105.8073083743843,
+  "addressStart" : "918 Đ. Láng, Yên Hoà, Đống Đa, Hà Nội 100000, Vietnam",
+  "addressEnd" : "99 Đ. Nguyễn Chí Thanh, Láng Hạ, Đống Đa, Hà Nội 11500, Vietnam",
+  "length": 1.4
+  },
+  {
+  "pickUpTime" : 7.15,
+  "capacity" : 2,
+  "latOrigin" : 21.02301915839655,
+  "lngOrigin" : 105.82130677586595,
+  "latDestination" : 21.00747317260014,
+  "lngDestination" : 105.84268448990765,
+  "addressStart" : "918 Đ. Láng, Yên Hoà, Đống Đa, Hà Nội 100000, Vietnam",
+  "addressEnd" : "1 Đại Cồ Việt, Bách Khoa, Hai Bà Trưng, Hà Nội, Vietnam",
+  "length": 2.9
+  },
+  {
+  "pickUpTime" : 7.3,
+  "capacity" : 1,
+  "latOrigin" : 21.021024222858966,
+  "lngOrigin" : 105.80524945124851,
+  "latDestination" : 21.021759085325296,
+  "lngDestination" : 105.84268448990765,
+  "addressStart" : "157B P. Chùa Láng, Láng Thượng, Đống Đa, Hà Nội, Vietnam",
+  "addressEnd" : "87 Đ. Nguyễn Chí Thanh, Láng Thượng, Đống Đa, Hà Nội, Vietnam",
+  "length": 0.7
+  },
+  {
+  "pickUpTime" : 7.4,
+  "capacity" : 1,
+  "latOrigin" : 21.025393202394906,
+  "lngOrigin" : 105.80362642765843,
+  "latDestination" : 21.023430132488375,
+  "lngDestination" : 105.8062305390277,
+  "addressStart" : "9 P. Huỳnh Thúc Kháng, kéo dài, Đống Đa, Hà Nội 100000, Vietnam",
+  "addressEnd" : "71 P. Chùa Láng, Láng Thượng, Đống Đa, Hà Nội, Vietnam",
+  "length": 0.5
+  }
+]
